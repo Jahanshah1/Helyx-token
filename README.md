@@ -26,3 +26,5 @@ Helyx (HLX) is an `ERC-20` token deployed on Ropsten test-net with on-chain gove
 ### making the asset tradable 
 <img width="1440" alt="Screenshot 2022-06-15 at 2 26 19 PM" src="https://user-images.githubusercontent.com/92823408/173790597-2b4fbfd7-9121-4dbc-823a-6e6cc4b02b87.png">
 
+## Future-plans 
+- adding front-end for making the voting feature more viable 
